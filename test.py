@@ -1,0 +1,2 @@
+version
+var = 1
